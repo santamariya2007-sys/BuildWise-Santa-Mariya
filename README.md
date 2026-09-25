@@ -13,9 +13,3 @@ FILES
 - index.html: page structure and sections
 - style.css: responsive visual design
 - script.js: profile validation, EPI, chart, scenario calculations, and text export
-
-IMPORTANT
-This is a student-level prototype. It uses simplified assumptions, not measured or calibrated simulation.
-Default values in the scenario controls are illustrative. Replace them with documented project assumptions/data.
-Monthly values are for the chart only; they do not silently change the annual consumption input.
-The page uses Google Fonts when internet is available; it falls back to system fonts when offline.
